@@ -21,7 +21,7 @@
     "url": "https://github.com/No9/sqlcdcstream/issues"
   },
   "dependencies": {
-    "node-sqlserver" : "0.2.~"
+    "node-sqlserver" : "0.2.1"
   },
   "devDependencies" : {
     },
